@@ -1,0 +1,500 @@
+[[SLATE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4d031348867b20e4db2744620cd36548d088a9a6"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "da65c17a2da948771dd724c945b7e3ccbb4d6378e6967d6d4ab36e6351dc97a0"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[SLATE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "49067ca73bf41a75096736e4a1fcdf2cc1fe6e0e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "742c41e7177f088c2f7ce76728e822a8640e3720e755fcc5ce80038b035a0a1e"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[SLATE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fcc0596e19faf2e5962fe246abb2ea9035d83277"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "e51bee2baee3105ee5895e03f5a1ee3c13d03bcf65b909927a78856c32bd3584"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[SLATE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3174f229378edf58b55132ceea67915d7da1be59"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "2ed993f6b158144da4af3a39d1a8f5ea2dfa584c5e5ed5633d1970f4963733b4"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[SLATE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "399b289d288247f97e384510d4c57cfccd424ec9"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "73e7528ec172bcc4ef3fdeb0e5d7c03d1ff665ab8b14a8266ad0914847b1ffed"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.aarch64-linux-musl-libgfortran4-cxx03.tar.gz"
+[[SLATE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a2e44260c4930f88589711367f55b2b9af731f87"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "ce4f4ac78f305624fe904d2f4ba2e53125639f4668e4c2c0aa2edffeeae397da"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.aarch64-linux-musl-libgfortran4-cxx11.tar.gz"
+[[SLATE]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a3a92e15d94de84169bf6c44667b9649a506a7b1"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "cf0b9a0effe2d1c99583399ac5f9c29c15584069206cdf95255f136111f48a0b"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
+[[SLATE]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f56c69581c8787ee923fc0d1fbd0e7920da22e8c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "8b4136e62d9bf986a5cf2f0e2358ee153ce6412258e37ea4936203e81940f782"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[SLATE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "22bcc6e73bfbbd3a87081badc65c91c5aa73b0af"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "f64e974ee26c5ee50fa1283dc3aff585bc0707f3c481d167fa25a5b76f38a1b4"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv6l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
+[[SLATE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cbfef9c212258ae53400a9049da37e7d96af3794"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "9dfb915eec7874a5743ce5a0f08826391105d0f035bd2c01fd4ffc4c70bb48bf"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv6l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+[[SLATE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a30706208d2bdfb06291f3a17e4268e21804ec7b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "493aef6dd2142e66ad0d10019604a842267eebe360bb6ef41c24f9077e3f3b62"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv6l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+[[SLATE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ca05f8b390942cb4c30f5e92c8b87af84b4d64c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "e061d4d91d381f58d5d45fadb0f2828a06bd77e764344740f14e85786b706938"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[SLATE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2ce3000774ae340a80fd7f933b5af2d53cb1e7d4"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "508e9c265468a5ad69514430d0a6ae22a281dcb81a8ad34a6c109686c8874158"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv6l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
+[[SLATE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "58a59c1e9fabc453189f3cb6867acd8881439c7d"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "a773b24564e3f959fecb9bfec2a56fea79ac18e546424d9689e19febc6276709"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv6l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
+[[SLATE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9759e5bf040a85d81e67053d0ed03074586e5ab7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "b10e2f10dd07a74045b1b04731c1890496a49cd278d0e7526e50e16d3e40be13"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv6l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+[[SLATE]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ca0fe4a5d9af1fda58358a9d7fd6e04a13b8fc1d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "4bf55589fbe441cd3cc8dd6af8584c4209eab874cb662d3222c302adee5a7f0b"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv6l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[SLATE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "514793aec6d44a9c93f918f0a863d3a41e739e4e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "7c6cdfb8a3522f03cfe6d41a44a8572ed737c5f6057953673529528ef71aec22"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
+[[SLATE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0ee32ac1318b90d28c6d0f2c6d6b7afa2937a81"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "6888ecb32397422407bdfe1e48e59ec1039814e6d8be211372eb585fca05f301"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+[[SLATE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "db9fa795c4ea7fd136bde01f8707b126adfa1a4f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "eda77168b644b120c5ae2fbc17c01d1e8d9025ecc07ab8779f35cefbf60fbde8"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+[[SLATE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dc0285295d7596ebad04cbdf3a32f12e73a13904"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "aef1e3ee0496b625be279ec121d26412fd4cba3751076b965296da986dbdc852"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[SLATE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "883c433d7dcc281733c9a93ebc97d393994018bd"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "06d6092cc6f3a0b4b0411e4203d08a389ad3a3d214bc37e1a96b7ea20a24c66a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv7l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
+[[SLATE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f67684db17a0a7a793927c669d2a073bb5029b0"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "4d7e585a2405c5599e5d57238c3254ab47143560814a0394120418af01590834"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv7l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
+[[SLATE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "17257a3b64ae11b6b816ff9f4af0cff68c92fe49"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "4f0e6798d7cae249e91da4ae47bd54cece9d3d6100604f43964add2396dafe3a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+[[SLATE]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0c90731bc3b6e6d9f3153214809a386a08bfc94"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "4cce88882977e6ce67391e0ea410bca52f7d633228e2e14c05ffdf6ccdbc5baf"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[SLATE]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "16886b3413a0574eb93e97b96906663e3b9bbd3b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "65cc4545d76adaf6fa476ca14d37b22ee516ba89f3bfbb8cf10b192c4aa0a65a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[SLATE]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cf8916bbfc5903c2132697ac33d751301e375e60"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "bc21d8b55eef415b66f9bc5f6739b9670b17e5cc7f7e6b7d2c5f04415d865d83"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[SLATE]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5c04b8d0f1658cd01b512b5324b0ba1bfbb8bc9f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "acaecb6dd07c62b622e3b64238a6ced4569f0605de9c25a61effb38e39472f4a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[SLATE]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "31f3ca1cfecd38774d969fb0824b7add84c07a54"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "6fef27bb81bf4009193f82ea467529ef97532ecad42e748808e475c2ad4dd1c1"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[SLATE]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2f4e3bbdf4cb22f525154ebfd95371992f10cf8b"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "6147faf0499f49ef14144b8d2011c30e58912a9180a47f03b9a617b24f6702fa"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.i686-linux-musl-libgfortran4-cxx03.tar.gz"
+[[SLATE]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "16d9e149ec84bd9c713ae4e6b8dd4738cad92fd6"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "05e83f268462cd02e2717dbcbf83b69d193fb4c2884c87705d211e5136a835bb"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.i686-linux-musl-libgfortran4-cxx11.tar.gz"
+[[SLATE]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "603e3aef6d88207a7c4d3de62105e1ff7fe51405"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "d3a642f751f64bccec61fda86cfde0ce5b205da4307b08dd5e19f9ff5ed46805"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.i686-linux-musl-libgfortran5-cxx03.tar.gz"
+[[SLATE]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "738df26ff28c3a3149f3b5f0a8e1e6d47ea68fcb"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "da4c8459bf96f0f7d071eae328835d34e479d4a1449939412624dce2576cd10c"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+[[SLATE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d19406e465e8734ae2f28514568863f095b34680"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "c5d844266f59eee572816802c07570c890d5b4fcad8902e3819d6f406b297789"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[SLATE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0131442a9ffb3a9922ef164e7972595177a00c36"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "7f603fcf2c1a88f2083f3ca8bd6a48a0bee6ef68217b201b5f6436e1b78cd528"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[SLATE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e4b72053e915200c04c05a6fe071ecad4b6a78cf"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "8d03df0ec37e643375dd05a3cbdcbf66fe5d5c2286c78e44c30adb0530e02f34"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[SLATE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5e4ed33463e0e47d89c36e470bed31b990f78292"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "1f135023ca0eb2ab3b0426024e6498d27c3e1749f85d5da31cd0cdedcf6d25b2"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[SLATE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ce73dc912cb79aeeca8412908576c6363d3413c4"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "b75ba465a16f42f2dc6c53e02a88dc6425e272f82dbeafc5eebfeafae8f03fca"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[SLATE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3d949ae8e73cea87b40a185b91d62d1e3986bf8f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "3aa4014cc4894ceb289f04c6a0f6719b12e53747a5db7853d168984898a3469c"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[SLATE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eb3799f047542a413c47e1132bb5926abdde9d58"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "af9a9aaa044a1c6c217e7c9ce0c029ccc2e1abb77a54e4c95435316b56514320"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[SLATE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4d23d5ab3fb3aad012c754efda93506ee1e8ca4f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "4d26ae01468e653f4514809977d951e47eb3cd6b01a4ab38eb2141b7c414c8b2"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[SLATE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e54dd2bf3bc0eace44b6d4cba9337f6346ed2650"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "34b21fd40e5f129329600e6e2f6a0af828d02ec138b87b94064333679c06d2a0"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
+[[SLATE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4c57aca4e3ee740887677a5ef57fdc12de752590"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "f8602e81eb889bf10d33041059837d98a1e5790c31e02103ffc54c163621482f"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
+[[SLATE]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ddeb7f325020096faa7706182cf96aefcbed9a45"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "7b10bae89b8a02feaac6c44beb0e3ae40afcf82293d8842145ec3702ee8924cf"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
+[[SLATE]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "71f539fe310dec62e78a3d4ef13e79a11c0bd121"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATE.download]]
+    sha256 = "a0fe665472ea66cc86bb16cafd1a7df4f6ddc152e8433ea258f1baa574332101"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.0+0/SLATE.v2022.5.0.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
