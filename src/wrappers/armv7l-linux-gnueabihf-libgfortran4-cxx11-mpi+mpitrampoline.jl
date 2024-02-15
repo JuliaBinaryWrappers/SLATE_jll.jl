@@ -4,7 +4,6 @@ export libslate, libslate_lapack_api
 using CompilerSupportLibraries_jll
 using OpenBLAS32_jll
 using MPItrampoline_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("SLATE")
 JLLWrappers.@declare_library_product(libslate, "libslate.so")
 JLLWrappers.@declare_library_product(libslate_lapack_api, "libslate_lapack_api.so")

@@ -1,7 +1,7 @@
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "06b3243374a07a66c59d1ec485f83dffdf1856c7"
+git-tree-sha1 = "3ded9ecc46b6c31c80984e534f305ed8f2d72ff7"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -9,12 +9,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "7923b0dc7eea27108a14cb14c1a38b50ac7c0c8acfeefc7d14ddb817ab55ebb9"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran4-cxx03-mpi+mpich.tar.gz"
+    sha256 = "58334afe5f605ca4eecfc4597bb167595ebfcae6c5716e67e8c4d3635c14c9f0"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran4-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "139ed2e4a4638788799c30965270d6074e08a1e8"
+git-tree-sha1 = "40148084076772a0ba64ebc481889d148d374697"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -22,12 +22,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "0148dda4dd3ad7e85c51453739a5a86ec0af522182884e469b7c11153457f471"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "639bdc634f2752218834fb06830f13948f7548775f34f5b7288a0cfc14a8d75a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "50736778f8db3795bc7a566739ccdec1c926e881"
+git-tree-sha1 = "d18c66b5f755a60a45fdbdf3d80bfd4e7131c4d5"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -35,12 +35,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "6a650c941c8f0b8a9211f2fb5b4585f04ae353afc0f955db98c5e418eb058d46"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "e97a7239a8f52a75f5d4285dffd3b190454f121e19b3b22d3cf357664dfc8e27"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran4-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa0800d2a1461f228596feec7e8a98f9affca682"
+git-tree-sha1 = "c2339471b15954f1ac5d124fec7839d2bb4a6a1d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -48,12 +48,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "57e5b4d155d58a30ec9234d09239ff4e27d3cb131136ae394e81ec8f29665143"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran4-cxx11-mpi+mpich.tar.gz"
+    sha256 = "3a77e2647215af090c58859fa65f16b4987fadfb812a48b94729381bc1e383c3"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran4-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6f67a6b194906f75ba7606253f561efcde7d07b"
+git-tree-sha1 = "b59995194f8f5c20ed35c272f353ca01c691f1db"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -61,12 +61,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "b532773c4a077853404c7439c99e9c776a1b7427424ffc4e5a3463670753358b"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "b5de9e0390cbb5cf0874b115df2ed0ed65564203db632b32c8c2859fc42d1fd2"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "df1f71d51598c7f76dd0a9ab3e1ce4a496a0ee01"
+git-tree-sha1 = "cb9655fc754a245085923c77dbb2fc1c48ffbddf"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -74,12 +74,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "cf83bcd298718618efa6ee56bbb9f11b50b1cfaac740ee4b32e6d9b3c2592e34"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "2f37a56ae254e6a7731ad71460ffe001b2ec338efe837a347643a4b7233ae213"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran4-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "21d8bec425b86c7a22a26d4854c39afa1d1d1ce3"
+git-tree-sha1 = "9a6aa3eb37fe514a01c89d2ff6f062beec844584"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -87,12 +87,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "d8a7ec5931c05e19b1e3f2d7cb6ae70ef6f8bc18da0e583adb28530034254c02"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "0dfba61668d4e49aa4b0a374a69239482de28cb47c0ea2bf5d28fe0acb45531e"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ba16605b893e0fe5a7e46fef443c339f0c168555"
+git-tree-sha1 = "4758edb88eaabe04c058cf961583442d4b88fee8"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -100,12 +100,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "75a1a2ae3ed11909dc263391abae93ebe5a2d37670a7c5f4974ccbced3cda305"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "93d2d0e2a4eb4dd8b2e659b471f72fdf0f009aee7cf061b2e6b1ac7479560b01"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0d99d8d496ef16e1d056206b225d61ca0bd87977"
+git-tree-sha1 = "f892ccc0043e99c376099c52a4a08f4706a81a7c"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -113,12 +113,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "bcf6ce8d36631642244fd76c28c17413b8c18292196ae4175d6b8242afa67e56"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "91687c50fee3d8236e6f10b6dcacd0399accf5483995dabeedacb2fa43ad1dd0"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a5a08d3f8f9876a3f5d9d1eb1aeac4f040d4451e"
+git-tree-sha1 = "f91bf32612ff4b4051d0f3b4444bbc415b461a78"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -126,12 +126,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "d6330961d1699ae71cec285ddadd1fc17a3ac464a19e60a0b775951d3ef6875b"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "973ebeff2cc696d7d524223c4784bc700e9b0b8797d3135e243fbe3b07ed0921"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a32874f9e1f5446b5d3f0d9efbe1c92fe8a4011b"
+git-tree-sha1 = "4930acfcab060602fb8904860b32b6b897d4787a"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -139,12 +139,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "50de0d50d9ba0d9e157c63d07e371ab0f1634e35be2b609fe1336446f95ce924"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "9cc694b52c29526a76c87ae671d526a229b8f3e31a676341092951662b407698"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad5df43e52f396f2f945b89096ff58657c3b4930"
+git-tree-sha1 = "4923fbb724770d85a299f3892f41ea4dd320c69b"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -152,12 +152,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "d1ec4a563d68895670c10ca378f5f5b55b8e88e27afc08d794e223a7a442307f"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "452f8c0de542852264c881fe057a7ed543967670274ee0ed0a218ce3fdad6306"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "846a4b43f9abe6989356b2b82f52047efae2a63a"
+git-tree-sha1 = "349ec636ed74eb296330207fdebe3222f85b4eed"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -165,12 +165,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "13075f9c484e671365720032dbb7989adbc17996e8e78c90c53f6b718b982739"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-musl-libgfortran4-cxx03-mpi+mpich.tar.gz"
+    sha256 = "712019e2fbd80a420aa609626f680b2d158152c7508f024a799a529d18fd612c"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-musl-libgfortran4-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "74fee1138c42acbf283aca2e1f15ec6853ee67be"
+git-tree-sha1 = "f554b6699a309b8e699a1a49bc5c6365588f6bff"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -178,12 +178,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "532cacf304e22b0eb2b9ce998e89e43c28e3d8a29bfa86d2eb0038ff8bc0a2ea"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-musl-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "b14d7b3ec5c67120671e776522447976c7ddf806e89429491b74030452b295df"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-musl-libgfortran4-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a3d31f0daa040d1b24761baba902de50318f0e9e"
+git-tree-sha1 = "7f36e33ddc219bbf9449563a0d0a0437849ec714"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -191,12 +191,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "24ed65fffe5ca35c39c9bf8b8571f4cd9064890774897826fa362ba39ed82858"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-musl-libgfortran4-cxx11-mpi+mpich.tar.gz"
+    sha256 = "630f72359ad99e2c555debf3f95aa9ce800196b628a3b4e701bac1f32e023492"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-musl-libgfortran4-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "42644073bf898d6d609a07a95ef8eaa02734ea07"
+git-tree-sha1 = "15890a2d7308b574afe3566285610e036dbc8a59"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -204,12 +204,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "c4adf4172bfb19d43902028b0942e1cf5bce2f1e9fd60a59456b01edf5b63ea4"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-musl-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "dfecb965b53bf800301ba691227e15454ff647be6f30cb37bae556cb4d3f1d92"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-musl-libgfortran4-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3273885249578c0e806c6b0218e80dcc36e24dad"
+git-tree-sha1 = "800a307861485794d73adb6a30bcdda80ac1e82c"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -217,12 +217,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "fb250840ddcb1fc0f81e34b59ddf6b31c2085c7bcac825e6bc14060b4c10f4dd"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-musl-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "ecfe101c9dac73cddc3e9e5a5ccdf2be848f507c5a1ab67a727346ec79fa5815"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-musl-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "63546f7c3ae3d143a4c6be54bc36e1b0318d954c"
+git-tree-sha1 = "6399b89e492ed72f946faa68a52534cb3a8147e4"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -230,12 +230,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "f78b99e435103c77d0cf457c99d57baef8d950791b9b116b44faac364eab5f24"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-musl-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "b92ae873251389296f62b63847deba4f8283b1ffd096c66447f6b62556e9acc1"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-musl-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e352bda3a598e1c7f38396063f3013effbb8b848"
+git-tree-sha1 = "756828bae5d50734e60f7459fcb8cb6f341e8619"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -243,12 +243,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "a18592c516d648030d20da194f4c809ea33a88d3cfc9e8f6c2b270e63adba094"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-musl-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "ce4f1b3e21d3f9af85174e0f98858f466ca70f5b78f2abf05e9bc5d51ae647ed"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-musl-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "12fdf1ee1000fe5d83929645b3f59c18c5e37634"
+git-tree-sha1 = "c5f5f73c08a82f2a28bdfe2581754d307acc5ab4"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -256,13 +256,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "2b6a9f575cffada5a6fc861b298ac1e24624c3c126a3ee00d6433a1e4a6bc1e5"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.aarch64-linux-musl-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "e3a534754188373729c12d446d9b8c9f9355def4cf7e351159f046d577ed6671"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.aarch64-linux-musl-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee4b5b0496006dd795fb143a46fd724f540c55b8"
+git-tree-sha1 = "04fc133ec04564ab097d0b5839e558099ed756ce"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -270,13 +270,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "18232deb68036f0e5dd64dde0db5c078897c0f01487e91cf011b63cbaae31c0a"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpich.tar.gz"
+    sha256 = "f7b6ea44ba375a0697065bb4dcb61ed495eb5f01e1b8b56f463d0f10c1582e10"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3f220b4246e53c28f19395c506a42cfa860a600b"
+git-tree-sha1 = "7b368330ad3882683048c54271309e883a878def"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -284,13 +284,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "ba229f98bdf0d47a4389c30879b1f2fe7ccf7f6e2c61ed7c6e735bcb2f2fb2bf"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "bb6ca4b39bab94e6c3d936cff39ffe5332793583dfd2207301ab76550514646b"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "33c085485b83aec02f7f5fa8d1fa5c615ea14264"
+git-tree-sha1 = "feeef28112d7a75934485e32cc6fd16f4dcf92b5"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -298,13 +298,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "a6bb96f54339b8b4798227f95ac1244557053ae1dfbe690f6d2b370b7b902f8f"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpich.tar.gz"
+    sha256 = "c675c34980097220278591bcbf1bd834e68e8a997ba235d9dbcc6bf0a58d8a7d"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3411d5f5604bab2dd3782f3e8eb59089ad052c6d"
+git-tree-sha1 = "ad78ffde7a30e56eb4b1d09446b445a6b9cb9075"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -312,13 +312,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "a762bb475b5204b8e87f5965a5edaf468b5ad6e69396b12914d4721ac4264c08"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "3409e90810087701a386e1d5933ecb2078e3669521d8c3bf9645e7ba1ee0b75f"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9661965a462562f443d4dd2ed4ffd68b10bffb5f"
+git-tree-sha1 = "2850a66832014a3a2e8bf845b602cbb7d319a317"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -326,13 +326,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "f6967387af1b0241c1333cdcfceb03da89cf5e343b1208b8ffbf332c95bf5059"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "ad1bea59db311512db04d07020e5bc0862925b60c1c3692eeb35a923477ba4a6"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d4794125b14126b5160a78fbfdb7c92ce51e9ab5"
+git-tree-sha1 = "b85d7a1ff2e4f26ab97bdc92505e045d4ca0d7cd"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -340,13 +340,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "48101132a4cfcdb02bcb3c463540468249ef1c4e3081f49499a25a85c0e86c46"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "362205026afa2af76bfeca50ce669e1d19b2b90d2d1eaee748be65f5241d9384"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "595cebecbba2d6a3c2e9437c0e70e470729ad7da"
+git-tree-sha1 = "e17563a7df87702ebafe7b30d50ddd7804a9aa58"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -354,13 +354,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "9ea19fe0f98654b845f9bb78e850ee68321353ed845cfa657f653f767748c0d3"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "157dd0e55d49e82012ea91a033d2db61e87c01cffcf047dd97da11f76a577d40"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "18f2d186d33c52c9be680962e42f4309090ba89b"
+git-tree-sha1 = "7ce86d016af1a969bb287ee76717a94b481c8de6"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -368,13 +368,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "37daf60dd90f41ce8fbc209a082f815259ad43d4918d32c9f3dcbfe46eee2aa2"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "0956e32b105742fcfa0143f5f5413da0a6347f82f6755bdfdd3dec7cade9580c"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf715e928cffd40ab6ad771d0314d53b96790ca6"
+git-tree-sha1 = "0e869fe4d4dee6cfccfd3e990dc6f07c66dc829f"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -382,13 +382,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "3acd8868bd34758a29dbb58977bd17815f9d4ca948dd1f859f9963d409eac68a"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-musleabihf-libgfortran4-cxx03-mpi+mpich.tar.gz"
+    sha256 = "289b96be21ae3bf0327a23b3d7fca12f4458ba5e2dc4dad37b953d2ef4ea0186"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-musleabihf-libgfortran4-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b9fcef3f2763b35cd6f6a950d47a17597ecd1ee3"
+git-tree-sha1 = "be5557cf9db18be465ca567c8e4fdeac4aa3057f"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -396,13 +396,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "5ebd2218cc3592d9f00ca67e60524fb6f87d1b4ea5614255bf235eaba8fa1ede"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-musleabihf-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "595521f80ec726d964a46eeda6fb3dd58a4fa6e4984e9a3f9475253fdaa9cc72"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-musleabihf-libgfortran4-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "37c91c57887fc72734ef76d13ec91c024c8bdac3"
+git-tree-sha1 = "9da70088efd33935ddc0edf83ba921afc2779b12"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -410,13 +410,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "233b606d57271dd37b71dddb475e6b92d79a4d36469d2dfb5f72717eb8c77e36"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-musleabihf-libgfortran4-cxx11-mpi+mpich.tar.gz"
+    sha256 = "636f56bacb24509e5d09a9f1f9900ffe8a850626b41acb08602a67353c6580f0"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-musleabihf-libgfortran4-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cfdd75a8bb57412670b6aea4df603a34b9c3ceba"
+git-tree-sha1 = "d26420c1084001cb0b942598ad9fcf98298ec376"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -424,13 +424,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "8b10212987193d4fe7b40277d1d46ca9e1d1829b6e955ff6fcd21ab77b0d6d29"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-musleabihf-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "8321bb638c66255a843215f9ec14468a3dd6855640709fa8cfb9373005b2c0fc"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-musleabihf-libgfortran4-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6d5ecc62d03e57e5f3658426c9a723b078877a2a"
+git-tree-sha1 = "2037671b4170e71a6b29188d44bca75c62279eec"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -438,13 +438,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "4ceb407ec657c6ce7af483296a71b222a090c93cb63b3ac974fee27adcf8f0b2"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-musleabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "85413e19cd4c8024554b5f06e0b035c8355310dad4d3667939b0d1c5db76cd94"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-musleabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c1145d9b5b6a1edd7c4b8becc4eb1e0f763dbd59"
+git-tree-sha1 = "15024bd446b22b68899c42e90a9890ed35e24f5c"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -452,13 +452,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "12d605bcd9538ffcd7f74821b83255cf5f7d0a5b45a54d251219f9ebf09f0062"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-musleabihf-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "d0447515eecdcc35c62616fda739f5c770006c5f0d150596423a7b9c9471c20a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-musleabihf-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5e5cba1cd0c4a341d615fa0a84ea429bd4f40ffb"
+git-tree-sha1 = "c9fd52254627f87d2cfcabffbbe8698b65386fe9"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -466,13 +466,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "92b25c2c173428074d91ffd70857c18d1778a39360d3f68e0f28142cf85a1043"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-musleabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "877bf7bb354b1efd591f6abd74c31dc3a00aee11e4da49bf37a35090add8a48e"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-musleabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "48ec30677f83a428baa61eaa724eac3c2dc2b5f2"
+git-tree-sha1 = "2faacb6a533a9d130e0f9ece1d4e44ef4efc016f"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -480,13 +480,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "40f9bcadbac6cb93f56d078f4b316881693e7ccfff32e75d2745d076d4a85bbb"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv6l-linux-musleabihf-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "53ca6dd4a15699a32e58390dcede531dd06c8b8bf5b1eb9532aca7c3ece75c20"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv6l-linux-musleabihf-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0d3a53a2d19adf95f2537ef334516acb9f6f79f0"
+git-tree-sha1 = "3faccca1b68d81152c6d6a3fc81b8def86d6bbf8"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -494,13 +494,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "fd2ce48daf266bff2571a974087a1c0c14d5ad729b6a0de7cee597b7df4dfbbb"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpich.tar.gz"
+    sha256 = "04494dd079654fa4823f438d26a475c9d3b938f7235dd195105c345b4fb2a0c2"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4de3d25dc0c1cb13ea9e2f3283f12248de3ce2fd"
+git-tree-sha1 = "dd37eefca32f42e23fc0e079d8d502bd0823b525"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -508,13 +508,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "29fcdc39e1de853409441e069a65848f815a2419d282acc0e1df7a05cd642ffb"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "efb786cc427196f1d39ad806a1834e9d6817a85eac707fd37134856b5d8f400d"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ab7a582684b8d62ac405fd16277fe120cf4da249"
+git-tree-sha1 = "0ed1108a8e3cad246d0793678055c559dd79ecf6"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -522,13 +522,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "870f49e3093e4fc95096c1b41a9b742ec3af375fe2c1083b2087913fedf397fe"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "0fdc849f2e6a0f687df85c616ca7f903408312a83cc8e6eeadf5cde15c54d8a6"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran4-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e94bb8f4ac29c7412756f4417dabcb24e0d2941"
+git-tree-sha1 = "148cdade1c3968e18a02cecd9ef3df750dd9edc4"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -536,13 +536,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "1062d9298547d783751b0aea620d53df16b6d8ce7bdbc1d7cab99a5365182c8c"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpich.tar.gz"
+    sha256 = "c0e0a85bace982a03f9f6d8b09f6f16e0377da67b0689aa2b83bdc6fd07836b0"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "86c6cb4c06e3d64f7eb0d292bc701b14ba87dd74"
+git-tree-sha1 = "f9dbbb6f639a7e385f244d20f6ed06d0ae0414b9"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -550,13 +550,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "46f1b246a92a74affff8ebeb74f0a042412f699fecc0c4926feddaffe87c48f8"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "70e3cda7073c2996d549b55356adeb64c0b72fcae733d7fcd0803b68c02d3e64"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0d90747b7440173616c894f10632c438f1d8f12a"
+git-tree-sha1 = "779860a5c7992aecb718a6f0c551625fc4714da3"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -564,13 +564,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "9459faa84c4bc798d612f9b517d0696b3e02175472deee95a8e53ae15b66ee6a"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "98774cfa28e75f891fde071b3d161b7aed61aebc5e5b83854ee93d0fc0250ac2"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran4-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "33a1a33b2d719b1fcb1ae002405765b4a05a6edd"
+git-tree-sha1 = "cdd21ac21e4678104510126300cc41221913df6b"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -578,13 +578,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "3e2ad10f7f1b16222452cd93bad96af11a6efce03c2c8d847ae7ec8109b53d6e"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "0acf9104cd2df3202dff775a72913b31ab0e505504b50d56dbf027229b2607bd"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "17d640f0d74bf3dc712edcb353eeab3b89911a56"
+git-tree-sha1 = "a9ec8802ebd5e4b5d5da8787bd208e878ad309ac"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -592,13 +592,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "276870e1d9e97f333c120fe78c5f46c5bcc1b3d1b819a3265578cf8ff34407a1"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "e7088fd9294d9dd1ac8e5d904211905c5d16bf0c0802d47eb399632fdffa610a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "30c28738955e58c429c546e87d015b6cbacfb9c0"
+git-tree-sha1 = "68ad319fced852ff1771c042ed0f17b498bbb60d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -606,13 +606,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "2c932e5209f7b952d7b189e7fc071117ba648e2d203e8ccdf5d9fe4b2d3fd7c4"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "218216221d9a304cea6258ae08ee53a6741c3589359c3f44f9c3edba282d0fe8"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "db854fb54d8a8df55d07a63bb3a79e167a3fc2da"
+git-tree-sha1 = "e3675767a2896384ccd68ed5e58bbc906710b60b"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -620,13 +620,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "f63efecb0c45dec0062edc0d95ecbd8de653ad8661bf8ee9f5f3801629b2bce6"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "f727f2863d2264cdba40eb15a19ba1fcd08b10449291b3c35c43eefbbaff590d"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e14100d3268b9b74cc215e42d7f359276046a73e"
+git-tree-sha1 = "f8548691b4ca02b3435daf1d1fe5272cc63002e1"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -634,13 +634,13 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "19103bdf0c4cb6ee0f71264429b89f7b37c82e6f113c4489bfd39bd8c2e7b7dd"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "f75e05d68abda42b2c0a5942f964a2bacfd20013f774f7032a99256c1d5d2135"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e6b237c89996df192283da3e04831f0a7e9f5f50"
+git-tree-sha1 = "02c631d48a9189c2ff9ff25ca0080b79525c3745"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -648,13 +648,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "5b41ce1e40ee9597eafe0da16dfc6132ced8e1c2b4354088b5b2212b61c86077"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "a16bb5c1cebd2aff7f0b2c0b72bb10b91ed5a6451fe438c71f4cce2ef8f7bfd1"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-gnueabihf-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ed26f72be8a08534e435b626d21e9f92caf74789"
+git-tree-sha1 = "2c37c920d478c37f93e1ddd90b2e212c4a9df8df"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -662,13 +662,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "697f97633e6b920dd0295b4cf041a8307f7aada6a1c9b5dea8a810b210ed2389"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-musleabihf-libgfortran4-cxx03-mpi+mpich.tar.gz"
+    sha256 = "f1fe35eda157c3b35176962d5d943734955e286f9e909cf1b77d1046e846f47e"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-musleabihf-libgfortran4-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c3e2c4138bcea5429a89c09329ea24c958db1574"
+git-tree-sha1 = "3eeb13078d6e256fc417097e3a73c37bca4ec8c1"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -676,13 +676,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "509d87a25b3370327d05a02c82eb59960de55b1e543fd68fe60571b3ba27552f"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-musleabihf-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "4eb50b7f2498357433b517c1ee2091a97a4ff33c69731219fb88e7a67072fefb"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-musleabihf-libgfortran4-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d15cc0d0445f752d9d6fcd568bd65d37441eacba"
+git-tree-sha1 = "d3208b0de0e113fa38510b6a9813c27eb7cd50b5"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -690,13 +690,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "dce1df74c29d55cf813345899a68fb9c5cb8465390d1e7ffd53f55c122ee7bf7"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-musleabihf-libgfortran4-cxx11-mpi+mpich.tar.gz"
+    sha256 = "75152414e0e478e9d9e95d4df257eabe1d600a12bc2764c0caacef3714651a76"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-musleabihf-libgfortran4-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d31c0eb775569b89343f1252c0c698cfc5afe0cb"
+git-tree-sha1 = "914dcd0c55696af0807128fdbded373dfad751dd"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -704,13 +704,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "2f81b53751bd46e74e08fc2996bd5299c972b51ff4c10038182acac32647ba4a"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-musleabihf-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "c207a7a0b4ac648e6722824de18d895690a158a978aae57721c7a466fedfdd87"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-musleabihf-libgfortran4-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "85319fe7d8ee984788a7bbecdd999bde25512d39"
+git-tree-sha1 = "c7d90ed951b7d6691b831f83e02398203fac5815"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -718,13 +718,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "03ccaa38523499b10908c7487748137687aa224841c50b82852318badbcc5f9d"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-musleabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "17808a046045781c3d6884eefb2b6b9ec6ce77a1c92d3628c7ae236a14f10b29"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-musleabihf-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c4c1c812b076fec3a6b70597db4d99fff1bf1b75"
+git-tree-sha1 = "30ce12fe2537e0345ee698dc71207b3a95acfcc4"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -732,13 +732,13 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "0529a6bb45fd9b54a630f8f86c6e3168fe3e716dce518464df666281a5fc205f"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-musleabihf-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "5e882a2c3c5fa505b7a816634e99e4da6b6445548c83cb99a9be54135150b817"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-musleabihf-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a8ca7f370ab873bd46895ab0ec6aa1762bf4e44c"
+git-tree-sha1 = "f00d4f3b1397f61af79362d300ee0037641e5b5d"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -746,13 +746,13 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "3c107cdf70821168a6b30a4c0bfe126071fe950ba2d8194ddb33f140e0b29549"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-musleabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "1563d803cf7b476e23d904fc5650687c8fdbca5f1e740d18d34c92cb3dd34ac4"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-musleabihf-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "facd42a5a9a20ee87b0e1493b63ba98eaf4ad395"
+git-tree-sha1 = "0e7e026d5c4e1c79eddb891fed7f795aaad47c19"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -760,12 +760,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "5a7cd25a2164fb6988c3e4b95a84e5e483a7d76178c01e5a6adf3bee1a3806be"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.armv7l-linux-musleabihf-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "e325ddd91194b1a5c13c037d2a0bcb35ca1a87fe0ba531e0bc538f9da9bb0f83"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.armv7l-linux-musleabihf-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "29a24b33266e39d461ffe949f755e3e7f25f1b47"
+git-tree-sha1 = "98773ea310363b25cb0d830b6d8f06ae98fbf59f"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -773,12 +773,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "1452733b7cd07a64cc612f7432eb2334f7b1857902767e254e2de5073b170c64"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran4-cxx03-mpi+mpich.tar.gz"
+    sha256 = "fe393abfd5b7f64247b166ebf6428f99272f070b18fb5e91829d852e656b4375"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran4-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "17ffa28b8def287beacfee2bfd0924a303cb5d83"
+git-tree-sha1 = "fd6603298e37621b89085ebd5ad3eb26699eb330"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -786,12 +786,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "7fedb60abc0bf5ac383f59f2bb4066fa61b7d545c7b8fbe2f665df0bc23ec7e7"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "88d2777ede46b25915a2b0ad1e005206e98aaeffe91a1c8c90c9e81128337e6f"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e6b09077ba8b924c706877620289b357a4ffd061"
+git-tree-sha1 = "6a3638aaf5b8a25a0cef9aeeb93225bb222b2b64"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -799,12 +799,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "ae19319407994cd324504d70e0ac59f83eeb676d22a012865a154c710b5e542d"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "8af6221d7be9f5c73aef557d47566d29dff642b04485eabad84a9c7937ea4204"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran4-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "116bce34b76577469954bbe31d6660488397472c"
+git-tree-sha1 = "74bab320372194e55199e811fafc884cb599b115"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -812,12 +812,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "1110f2825731865381dc0fc08602c2b54ee6e43aa1a77c729bec6f61c506f80c"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran4-cxx11-mpi+mpich.tar.gz"
+    sha256 = "1e6c9f7d90f97d3667feefc20794c5576254bcfbab395a5804c38496d7aba207"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran4-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "69fce372d49b8982180cfde684b0818e4905c085"
+git-tree-sha1 = "a6becedc52d8ef1b597bfb498a1ab468988d2fef"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -825,12 +825,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "b2f845ca9e827d160586dddd7fc7c78c0015874c9a059323ed826c8e28dc5534"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "15f00843ed0195508f34d2e030e7e7de527391594a38b090718544193c9d017f"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "573d9b25eb5ea204cd9f12c922cd35c8a05410a2"
+git-tree-sha1 = "9674279660f4e63f7b7e68ff0662b91a761ff38a"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -838,12 +838,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "93bb310b0457f4ecc9b8eb6795488634a5667bf0cad271d949d495f7cea2d9d8"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "b9bd4682d5fbc398b0d5722fc194a7efd89149361c5ac3f163b9dc650598d882"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran4-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "80698ed876b3eca68dde675046a58323ad30f36c"
+git-tree-sha1 = "fa816fca85eacb931994150caab49af38057073f"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -851,12 +851,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "049ce174850340b289b54575c592423b9ca77090f822f1abe9708db9551d23e7"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "4d58bb98371aad667e039c4d4bffeb381c14f336333f9bf93ccebf547a6e8d2d"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6e4408c02b6a6daaafebb9f61e63ec29c3a43ec3"
+git-tree-sha1 = "c225968cc70756016da70796de305053bcf4f29d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -864,12 +864,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "3a7087bc41693ded878ca93e42ccc3476433c50da487532b7d348937c2c5fe04"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "e23b70fc6e191ab26e8cad815d7506def911d832fe7aa68a24d5739619a26f51"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "073a5a3544b9d4f6fae7f977d86c1c7217be72ce"
+git-tree-sha1 = "e4ecb0ac94d73aae91be12ee516dfd36690b65bd"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -877,12 +877,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "20d7a4b4220f3ee6eaf67fb87865c5cb6f631d3670ecaf1ac38b43b92b825f73"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "7afdf6d2cb92fc82b5e9ad9278fd342672b4682bf7aac60b67352e663a0233de"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c7499c0c55c85ef01c56194814bd8a20767250fe"
+git-tree-sha1 = "cf377c47291d4658f022af47acd50f6270f5157f"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -890,12 +890,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "ba7803e54c720c03bed3996b983ee6f526fe1327902bdd1cdb39639cea3f742d"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "d4081336cd7fe933754d78d54c3aa8c9ab11c567e68364a3af6f599dd116be8b"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fd56777cb294fce6f891624047e9a79a07cf9215"
+git-tree-sha1 = "76373e3aa8aff479a7f4c5820f8f7662637413ad"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -903,12 +903,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "d6af4e541697b8922c0e1c8114dddd1bf189ec5f82d1aebf801db2f55efd8e22"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "ae4dea8dfda2d3c4fe2cdf7a0e9f39f744ba8b1f2ace1eea57b1afef3d6db100"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dad1f8eb53644296e0f0d2798b977c957fed61c7"
+git-tree-sha1 = "02492e6fe5d1af9e6b216c1573fe6b629d18e5a4"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -916,12 +916,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "eaa989a27dce27ae9fe1f3e727464c2f9c6e0b4eab23a5ceba8d7db8bec74d85"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "e7708485c476657535f8afe2c0db4f8a58e3a2c82224135b9a6d2211abd23a69"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "35a0bfdcf8b961a690f8e3b709e5ea7751b72c72"
+git-tree-sha1 = "2c23566de39bbb26198adda6532b7dbff0e0bea9"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -929,12 +929,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "a1ad9078a696d328919f22562ba6a86773c88e9c02a149e4b1cafe21ea188d86"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-musl-libgfortran4-cxx03-mpi+mpich.tar.gz"
+    sha256 = "0ef7c8b558c36c296cc3ee9c690648ef956325c00e0f034765d6d304ad8f648c"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-musl-libgfortran4-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4d472bcb9052b20d9aadf595d5e7bd42ef9188c6"
+git-tree-sha1 = "a1e8a03133a306799f2057cabfd3ee2ef28c04a3"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -942,12 +942,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "cec1c1a606b1086d5dc03cf10d925ea89419c18b92ac1a36d9222cc6b989cf03"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-musl-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "69aeaa3194fccc7a4d4266660b4c337c8f89cedc4359ba6c31eb70a301d87809"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-musl-libgfortran4-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "57064e8e16ebd935888c238d0cca1222cf7a851f"
+git-tree-sha1 = "e86a548a9039fbdd85606d3a23e6bdee14884a21"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -955,12 +955,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "24f9a70d038862f1da1ffeaf64ba47909027209b1c46096e10a8a569587e8bd8"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-musl-libgfortran4-cxx11-mpi+mpich.tar.gz"
+    sha256 = "fa99443c77e29c36c59e6b09dacd092b6092dcfa4bc2ce115710e0e48aea2b7e"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-musl-libgfortran4-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ec64a9a936168997d34800342c61ec9c9e4512bb"
+git-tree-sha1 = "d3b7fa89de6bbdf5590a03b8999b4195b51a63e8"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -968,12 +968,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "b8f31693995cbf48cea79d45e6023c24eaabfdec1f81e358e6f3c6836f726adb"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-musl-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "dd4c8e89ac9dc644c58af06d75c1e3b0693a61a1f3ad9d8a344925b40cd3799a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-musl-libgfortran4-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ae7baab7cfa221c57f07edf500bd71221dcb33bf"
+git-tree-sha1 = "211f4c3413ee53c4f39168c06471fbea73ada45a"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -981,12 +981,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "79b2a675e99c8dafa86f74e3fcb4699441059c9577efc5c2569b136005d8f216"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-musl-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "f5074a6b1a96d2dd840ddd888d5ceac23b027f1160cd78ce588eccbd4783c081"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-musl-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e38b4516556d1a5c7819579da14cfbbd9462df70"
+git-tree-sha1 = "03223c8445f1aa36134f785b4c6ec4ee1c6e68b9"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -994,12 +994,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "36fe62304e710974ea96c90b12de11f1b67568dcce91546a341541873340a211"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-musl-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "505fd99e738c727754dd2807aa0276b6a76d5e3c2bf62283b9c94ce91b67bc6c"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-musl-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e17027a2ada031360e225775b0786f0d5ad71752"
+git-tree-sha1 = "447176c218f9678e4f8b2a1f3dcefbba5e4d1a77"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -1007,12 +1007,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "e947dc7c876236b6ed65df91c7ea79c72d6e29e7d1a6a4c25f4540d4a02b808c"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-musl-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "20458130aead0f006ec294944c69a445a57b5de543da78bc54e5d6119c550d8f"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-musl-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a5e073f85e2e4846b9f14776d79f5cc614680c2f"
+git-tree-sha1 = "4f452325a2ee8d93244de726025e80ecb4bc8c26"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -1020,12 +1020,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "7265ddea38071e39f5ce27e28b572196c9735312064c959b9564b788074626c3"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.i686-linux-musl-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "2fc9ab335520c459efeeef7f06a40a34211f2694087f86bc5619ca5decbb7799"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.i686-linux-musl-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9a5ef0a7534b502f85b5d8ff5e35ee8e8dff9830"
+git-tree-sha1 = "8fdc4d6e85441238f7391841e4eadbc49bd109e6"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1033,12 +1033,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "81075dc02a50b4b0b0f6d22ded15aff69adc90117d5e6750331781af694ed708"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran4-cxx03-mpi+mpich.tar.gz"
+    sha256 = "e29504af89fc27b0b6cbbdc05810f9d8ff308875f939092c2d22a34e553fa7d6"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran4-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b3e27bbbd6979acf6c9c31d934168cdcaba98d0b"
+git-tree-sha1 = "bad2160aa7bc9b99633fe5f4c07c0daf4289589e"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1046,12 +1046,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "22dc97516c84f5d5bb9039738a7c4cf39f417dc4af0302358785178bdc64fdb6"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "79791d5bda6707fa0eab25977439c54d41d220e17781a30636a27d6cd3ecd414"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4ea991a05324aea5a93ef8b84e191b1c154e89bc"
+git-tree-sha1 = "cd138774426f7125da8581b6e5bf45f5b54516cf"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1059,12 +1059,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "5be32020b34f03ab25e378fbc4c298731be577b987630af6873411e0533040a1"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "aff751f90c9a33549a2726197fe2e8c9f932683fe66ceec2f991b971e0f3c94f"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran4-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e5212a79f628738c6a5906ede96168d3e4422752"
+git-tree-sha1 = "4c8ec77863c6ffa7fd87962421c27d0bd0d469a5"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1072,12 +1072,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "04e3be3fc5a23b5505f0fa05466acf54a21119497662fd1ad34062e5400b0270"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran4-cxx11-mpi+mpich.tar.gz"
+    sha256 = "23197dcc806621cf37ac2ee1df9addec95a7a6d3dbcd32af771c97dde938dc20"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran4-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a2ea0651cb833178be4a40976340a2013ea8076"
+git-tree-sha1 = "e0df8ddd5e0ad9c37c46b8ed88e7def957fa17f8"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1085,12 +1085,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "5168ddbe9efcbf563b0923d426247ee1fde72a7c809db6e92cc1d4e4d52c40ff"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "56009f0ec914f10c914d0afa24f791f291649e9b26fc4367bd0df6257bc9e2aa"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c5954dc4885c6f451d8f9f54b978d0c28675f7ee"
+git-tree-sha1 = "8efae0280111e1c6963b14034d9d78668a86be63"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1098,12 +1098,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "3333297e14bf7e7e171fad4e3e4d6aaa89ce36ec64413e0207a2f06fe5196366"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "67651615a0ea79196417695854282a81a86382e81e9aec991d43b434d2e5927a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran4-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "213513a906e4f230ef9a18b041363095d6a66b44"
+git-tree-sha1 = "e6abee722755019a9aa1fe267d51d012024e1862"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1111,12 +1111,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "918159efe1e90d5d770ab49e0d07950627c060d8d5f9f0da667afa503c8755b3"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "4ded8a564123daffe6129af10467d4498ad83cea586f88c4ac8df45dd486e7c8"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "854cf94fb059cb837830270038de94436acb7ec3"
+git-tree-sha1 = "bc079bc2527fafcadbfbbb891e151dbdfb9e9067"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1124,12 +1124,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "3a1282aed262e151cdd6bd156a80b378661b6250006328aec6f74f3813d6a3bb"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "f02eb0bba74f5ea03907ea57aa9a056e73c4e2d16ff9ffdd6b9ee35d51eea3a1"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4c0f15db9c727e4fc59a173dd0b506ad7ecc1c24"
+git-tree-sha1 = "e512c73ace0e0f635e4ed35620bf732ae6aa9dd8"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1137,12 +1137,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "01c9378da6e0dc5c4aba6662afa8dcfe839689d5ab3717e0e5395a96782decd1"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "3450d0c332ba135b09ecb8240b157899eab00f57b0ef65803193d90220adc879"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "16788081a231db777edbf8639aa191c3de870f52"
+git-tree-sha1 = "4091ce2502ea71cc7c67fb8da22a93b251ed6f69"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1150,12 +1150,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "0ebdf8c66674bf4c6133985eb039c88c3b37808f8da8e3efd0b71819137f0498"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "56c979724e5c191f7959fd6d33121f68a837f538754d8cda688cc3acf5146c42"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "25b23fc50e54b79369e6fbe452fc2d19c165eff2"
+git-tree-sha1 = "7fbfa1d3d43ce88ee91dbdaf7fc52a9d5642e992"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1163,12 +1163,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "728de24ef4ef9a4d25c1e024d24161b6efc8357c3ffb85471226e0933c76cb48"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "0e9a8e04ebbeeb7c4452a903d8e90090f4787d01a18019404e3d54ac0fd2be4f"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0041a53bd07389c91789cc31d6c40fde171de97a"
+git-tree-sha1 = "f5711bd0ac6d5e60f45458b3d62562e245cb17fc"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1176,12 +1176,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "a8cd3c3d3c731a410ad4e77c8b564f26508cf324cad5db86664b9e9f6734649f"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "738280622c489931519b6f894a86be23b93e2999a7aef84e833458f237cc8c26"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "096a42639bc4b00e1c2b34fe47cb55b75eaf356b"
+git-tree-sha1 = "ab42f59abb8b4eb19cf3957bce118b3317854a3d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1189,12 +1189,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "53270c1a3502ad0d27a9dbfe47aaa36ecd33dfed2af3579d6c2c5f1552b53357"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran4-cxx03-mpi+mpich.tar.gz"
+    sha256 = "1251aa01d6bbb5c87a006372c58f6c0f0d9f1af138b90831dfe63fbbc168f2bf"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran4-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b61281150d66e35f17ca684afd2b87beca56a9bb"
+git-tree-sha1 = "02953642f57a5c9a981ba65436fa08ec1c78789d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1202,12 +1202,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "a35fc76e72a234bd5739558a8c3341d0f870caccb7eb72187e07cb3b98db817a"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "897d69463849a17ca9b67b4f2604a444ce5ce674b8c1864f862abe4928c315d5"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran4-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "938368c07c265b7728dcb62468c785b430e81804"
+git-tree-sha1 = "03e06aff430cd8b758d874f4447f4c34734145b8"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1215,12 +1215,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "4e7922ec481c81912cb40506b806f34a409ba9fe32596d4c508c42138cad6153"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "c85c26c3a3f436aa9b83d3884f38d4ec3e312bdd3087343f53163a525cdf4e92"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran4-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "74ee9df0d2da5f43dd4efac8066962a9ce07dbcf"
+git-tree-sha1 = "c148cc836d738292c818707e643494fcb1811b06"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1228,12 +1228,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "3071a0328b691eeee29b6603c6fd5803111cfc55dc2775e451511c24ddbeb8a4"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran4-cxx11-mpi+mpich.tar.gz"
+    sha256 = "e9298218492017bdeb83835a77dab6b67a53c95da6d7bbed6187140a35064085"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran4-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "530d9f4892bdff4738da9dbe10b025dea19d104c"
+git-tree-sha1 = "bec2d814c9e7b827b81ca041268b3162c942bc3c"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1241,12 +1241,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "27d14c4963767a32dc93f9ecb8e73dfeb548765b431820b1535237de3f645a9a"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "c132de8fd30293dc35be7b0c7a88ebba009fdd051aea5d871e2a7b68cb5b3306"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran4-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8d91c8d88358979d1c45be8538b988b096d85e65"
+git-tree-sha1 = "a8bf03796c96b31e068c1968dccfba30c63b4870"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -1254,12 +1254,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "18b5b7afa631d1649db02775b08b10ea54fc7ed791923589332124416c4ac91f"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "ca53f2c4023fb30066729cc06047843b78f32bf023c90ecd5ebcf73e39e73f4f"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran4-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "007478e975dde8cb582cf9fa2b8021916dcb982b"
+git-tree-sha1 = "bd3327c2db7ba466b866a977861c7f0edcba3b71"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1267,12 +1267,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "20d99aa205c119736dac8fb67d8e573b3e5e79f3cc2afff7cdce2155f7d1841f"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "70311d4c5d653c7f73415d60665d1f9c2edeabecae189a172fe988fcd574a7bf"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3098f5df6e84b861ba42c54c71a5370bdc203e20"
+git-tree-sha1 = "8b3f4f5ff64e2e4d1021a8f2a8833c6b0453c047"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1280,12 +1280,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "7feb87e9a6a66572408ba3ab7676728e6da4ea8d8dcaced2aa688a328046fc8d"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "b171deb73b4d81dcda23feafd0b2cbfca73e662fa9fecc1f3f1cd0d25367cfda"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "274589788c2fb2b40e9b816618ddc9559be274b3"
+git-tree-sha1 = "f8da1a81b659e9fd3d46a6a3c5735ad6b1259afd"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1293,12 +1293,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "8621b095a2d14ab3192092c7e3dba6d665a61c8040ee58aef3ed900afea0700d"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "4fb456114fc5a115b08837294e59f29f7f9daea142eda1497deace72a060e5f1"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "19bd3098763e844abf06bdf457e503494c34e314"
+git-tree-sha1 = "ab7b0e249a894b51f5809da7e0963a24d45ff7eb"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1306,12 +1306,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "0785bf4b1d546bc7f0f5029b6833d7df7ffced15d2da24d67a99d9e4b0b3c2d9"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "1babf50489b63222727875132c616bb1162107594dd66f700db70deaff7644ff"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f0974f28954b4ffc6e48c3c60514c17fac786c74"
+git-tree-sha1 = "843f10f8139e37e72ca6ec655f9e8fc50dd50d54"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1319,12 +1319,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "25e6546f991750333430654e1c6274b1e770c6955a64e76614ce3e0d24b2d8f5"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "b83a59ab8f08ad5123e0cdefb35aca3a8d142dc32f3a8699b8fd4c5e215cbcc0"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cb2e35e2177515473e7e072c3cc03d14c377d2b8"
+git-tree-sha1 = "11499b22aad5bdf5c80856fd54a801c8ac079f47"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -1332,12 +1332,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "cd1e1cbb96c99dccb3ace5b9c6fc874db4e9ee7747ad215212785ee1cb52fdb9"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "c3eed9b0ebcc7ac916e17d407fcfcfe26f62b5ba2192af0cebd00be8219274b3"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "41668a57267dd7618005bb1e23aef15cd9328173"
+git-tree-sha1 = "59f5e3b1d9667bb4b5985c0c2e595c5f0b9fd16a"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -1345,12 +1345,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "71211d1b46e077335749ee1ed47eef452d742bd67331b31afe39c9b306915f9c"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-musl-libgfortran4-cxx03-mpi+mpich.tar.gz"
+    sha256 = "5ad381fee83efb63908675647d2b11d1dc2015be2d935084e8636b8c5de2d738"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-musl-libgfortran4-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "254417edf2c8dc64db387da3c11c2baee8a2d96a"
+git-tree-sha1 = "f1631736fec3fe17b3bf09f81d4dba1661dc83b7"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -1358,12 +1358,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "344efada97e6c1a6f5e2d38aa1a371e8c4376af1130dbe2b74a2df84e2790b3c"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-musl-libgfortran4-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "0476f05e80efbe3dcbb89a6446eb2c1d73d1e074d5a0d1f2c4662f363dde7295"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-musl-libgfortran4-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "42872d38995f959583fc5dcc2af093b40d076e2b"
+git-tree-sha1 = "ffbbb76ba3e3d2979fd2c7690269401ba5e83312"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -1371,12 +1371,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "d8bed5ea42b35d3458e982a047528f2a28eafea0012bc3271a875ce7dc8898a1"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-musl-libgfortran4-cxx11-mpi+mpich.tar.gz"
+    sha256 = "509e7d2f20e7a73bf95aeef48b7a5f25435f4498d549906df00e0cdac61d66c7"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-musl-libgfortran4-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ae65b1ca1e0bb4cc3a63931291328820e611420d"
+git-tree-sha1 = "1b2908e68feb94067fc5414a29cebe6b70906874"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -1384,12 +1384,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "2198eee2795d42d76c16a217ea661b40e24b651767a5b5c6ff8c1d3caf9eccec"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-musl-libgfortran4-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "3b3bee74294e7aa6e64486ab237fe654ebb74f0e5f7b01bc7ef1364455bb1d7a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-musl-libgfortran4-cxx11-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0c1b332ecfa5400637ef4f5d2755af90d7740b11"
+git-tree-sha1 = "a4fadb4c20cdaf288eba0f254200226d5ae3bea2"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -1397,12 +1397,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "71f6c54531115586337738b7ecc3d669c748e8e8dd3c23d89d18a52c365acd6f"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-musl-libgfortran5-cxx03-mpi+mpich.tar.gz"
+    sha256 = "5d14b911782289b4b92d14bdcf67066440fefbbc3c49748a8f72f705a4297cb5"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-musl-libgfortran5-cxx03-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3a306b1c301dd95596172112b4e8ba4afbe5a41a"
+git-tree-sha1 = "709230ffd7214a4cb2418c4674990766253fa0ef"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -1410,12 +1410,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "b5f7cde34a7ecc3ec590e1b9c3d10c606f1962c8496c343740d42d1f606f1eed"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-musl-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "1cab61f38af7a23bcdc5b34312aa5be279d8f7bf1d1f05e4e3b90673d9cf185a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-musl-libgfortran5-cxx03-mpi+openmpi.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c7885df492e736046cfaf93f0ca4e9f2aa041eba"
+git-tree-sha1 = "773e082e07e3561a87abd2d7444a17fc6b8626f0"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -1423,12 +1423,12 @@ mpi = "mpich"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "28cef4fc2306fd25b41d2c46e60d49585d4141489d2cf264aca3e15c2397f9f7"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-musl-libgfortran5-cxx11-mpi+mpich.tar.gz"
+    sha256 = "dc98099b28a6d07263258f5c1059adac774fe7b71c7fa681a9c4adba1773cd03"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-musl-libgfortran5-cxx11-mpi+mpich.tar.gz"
 [[SLATE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4bde8f89688a6e5031fab9588418e12ae7464557"
+git-tree-sha1 = "168b4adb7827526b9a83dc1a41c0fe8947dc8b2e"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -1436,5 +1436,5 @@ mpi = "openmpi"
 os = "linux"
 
     [[SLATE.download]]
-    sha256 = "d008c3396513f0f62caaf28818894779cf90c60eb06a3935afb240c7615a233d"
-    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2022.5.1+0/SLATE.v2022.5.1.x86_64-linux-musl-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "ceae24909161c8f77194adfbf22fb8becaae183013d142ef3f612943adcdc7e3"
+    url = "https://github.com/JuliaBinaryWrappers/SLATE_jll.jl/releases/download/SLATE-v2023.11.5+0/SLATE.v2023.11.5.x86_64-linux-musl-libgfortran5-cxx11-mpi+openmpi.tar.gz"
